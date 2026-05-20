@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/jdxignite/:/",
+    "/content/jdxignite/configuration:/.helix/config.json",
+    "/content/jdxignite/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/jdxignite/"
   ]
 }
