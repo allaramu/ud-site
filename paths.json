@@ -1,10 +1,8 @@
 {
   "mappings": [
-    "/content/jdxignite/:/",
-    "/content/jdxignite/configuration:/.helix/config.json",
-    "/content/jdxignite/metadata:/metadata.json"
+    "/content/ud-site/:/"
   ],
   "includes": [
-    "/content/jdxignite/"
+    "/content/ud-site/"
   ]
 }
